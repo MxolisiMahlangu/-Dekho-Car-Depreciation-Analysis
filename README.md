@@ -158,4 +158,6 @@ This analysis demonstrates that depreciation is driven primarily by time, not us
 
 Data Analytics Project | Vehicle Depreciation Analysis using CarDekho Market Data
 
-Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Exploratory Data Analysis (EDA), Statistical Correlation Analysis.
+Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Exploratory Data Analysis (EDA), Statistical Correlation Analysis. 
+[Inspired by VibhutiNair24]
+
